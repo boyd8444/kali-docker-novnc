@@ -1,5 +1,5 @@
 # kali-docker-novnc
-Starter kit files for setting up a Kali Docker container available to Firefox brosers via novnc
+Starter kit files for setting up a Kali Docker container available to the Firefox browser via novnc
 
 sha256 hash: 965265055eed82f054e451e6e048e524a2335b190ceb82a229ff1eff6eda880c
 
